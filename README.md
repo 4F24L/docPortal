@@ -12,7 +12,6 @@
 | [TypeScript](https://www.typescriptlang.org/)       | Static type checking and better DX    |
 | [Vite](https://vitejs.dev/)                  | Lightning-fast build tool and dev server     |
 | [Tailwind CSS](https://tailwindcss.com/)     | Utility-first CSS for rapid UI development   |
-| [Radix UI](https://www.radix-ui.com/)        | Accessible and composable UI primitives      |
 | [React Router](https://reactrouter.com/)     | Client-side routing                          |
 | [Zod](https://zod.dev/)                      | Type-safe schema validation                  |
 
