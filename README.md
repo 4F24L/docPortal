@@ -13,7 +13,6 @@
 | [Vite](https://vitejs.dev/)                  | Lightning-fast build tool and dev server     |
 | [Tailwind CSS](https://tailwindcss.com/)     | Utility-first CSS for rapid UI development   |
 | [React Router](https://reactrouter.com/)     | Client-side routing                          |
-| [Zod](https://zod.dev/)                      | Type-safe schema validation                  |
 
 ---
 
